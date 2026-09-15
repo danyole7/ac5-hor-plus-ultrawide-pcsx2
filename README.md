@@ -12,6 +12,10 @@ By **danyole7**. PCSX2 patches for **SLUS-20851 / CRC 39B574F0**. Use only this 
 
 The `21;9` folder targets **3440×1440 (43:18)**, not exact 21:9 (7:3) or 2560×1080. Other resolutions with the same actual ratio use the same patch values.
 
+## Reference comparison
+
+![Reference comparison](comparison.jpg)
+
 ## Installation
 
 1. Download **one** matching PNACH from the table and copy it into PCSX2’s **patches** folder. Keep its filename. If you don't already have a custom patch file for this game, you should be good to go. If you do, **DO NOT OVERWRITE** your patch. You will lose whatever is there. Instead, manually copy & paste everything under "gametitle=Ace Combat 5: The Unsung War [SLUS-20851] (NTSC-U)" into your existing file.
@@ -45,7 +49,3 @@ The 3440×1440 and 32:9 versions were derived from the existing 3840×1600 patch
 
 - **Based on nemesis2000’s 16:9 projection calibration.**
 - **danyole7:** ultrawide adaptation and testing.
-
-## Reference comparison
-
-![Reference comparison](comparison.jpg)
