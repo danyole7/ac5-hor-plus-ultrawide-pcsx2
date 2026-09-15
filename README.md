@@ -1,6 +1,6 @@
 # Ace Combat 5: The Unsung War [SLUS-20851] (NTSC-U) — Ultrawide patches
 
-By **danyole7**. PCSX2 patches for **SLUS-20851 / CRC 39B574F0**. Use only this game version; addresses are not portable to other regions or executable revisions.
+PCSX2 patches for **SLUS-20851 / CRC 39B574F0**. Use only this game version; addresses are not portable to other regions or executable revisions.
 
 ## Choose a version
 
